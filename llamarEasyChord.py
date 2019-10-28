@@ -5,7 +5,7 @@ Created on 27 jul. 2019
 '''
 import os
 import sys #@UnusedImport
-from EasyChord_1_1 import * #@UnresolvedImport @UnusedWildImport
+from EasyChord import * #@UnresolvedImport @UnusedWildImport
 from PyQt5.QtWidgets import * #@UnusedWildImport
 from PyQt5.QtPrintSupport import QPrinter
 from PyQt5.QtCore import QFileInfo
